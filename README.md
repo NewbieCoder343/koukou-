@@ -1,4 +1,5 @@
 # Koukou and his friends' brilliant ideas
+
 #散户情绪与股市变化成正相关，本项目旨在构建数理经济模型，让散户投资有依靠。
 import pandas as pd
 import numpy as np
